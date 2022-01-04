@@ -1,0 +1,112 @@
+{
+  "main": {
+    "id": "2885f315548a2731",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f9bdbe5feb8e0d4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Characters/Main Space Team/Blue.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d7a523ad08495b7c",
+    "type": "split",
+    "children": [
+      {
+        "id": "498011f4b8945ffa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "abb9a0a4b206d251",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3d8ffe58bc6a20d1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "exca",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6d02587d43f92a7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d2558d5ecb0c73b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ded4009a0c55a735",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Characters/Main Space Team/Blue.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "23babda21cb172df",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1f9bdbe5feb8e0d4",
+  "lastOpenFiles": [
+    "Characters/Main Space Team/Blue.md",
+    "Characters/Main Space Team/Hugo.md",
+    "Characters/Main Space Team/Cardiffer.md",
+    "--Templates--/(Character Template).md",
+    "Story-Timeline/Timeline.md",
+    "Media/Comics/Sciive - Origins/Sciive - Origins Comic.md",
+    "--Excalidraw--/Comic1.excalidraw.md",
+    "Media/Comics/Sciive - Origins/Sciive - Origins Script.md",
+    "Media/Comics/Sciive - Hugo's kid/Sciive - Hugo's kid.md",
+    "Characters/Main Space Team/Afri.md"
+  ]
+}

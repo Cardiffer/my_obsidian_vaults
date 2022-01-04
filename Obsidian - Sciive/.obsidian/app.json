@@ -1,0 +1,14 @@
+{
+  "spellcheck": true,
+  "promptDelete": false,
+  "spellcheckDictionary": [
+    "Pyrokinesis",
+    "genderfluid",
+    "Favourite"
+  ],
+  "attachmentFolderPath": "/",
+  "alwaysUpdateLinks": true,
+  "legacyEditor": false,
+  "livePreview": false,
+  "communityPluginSortOrder": "download"
+}
